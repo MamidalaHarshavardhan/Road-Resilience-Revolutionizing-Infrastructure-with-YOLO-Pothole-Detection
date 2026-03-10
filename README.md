@@ -72,10 +72,3 @@ Contributions are welcome! If you have ideas to improve the detection accuracy o
 
 This project is licensed under the MIT License - see the [LICENSE](https://www.google.com/search?q=LICENSE) file for details.
 
----
-
-### **Tips for your Repo:**
-
-1. **Add Images:** If you have any output screenshots or a demo GIF, upload them to a folder named `assets/` and link them in the README to make it visually appealing.
-2. **Requirements:** Make sure you have a `requirements.txt` file in your repo that includes `ultralytics`, `opencv-python`, and `torch`.
-3. **About Section:** On the GitHub sidebar, be sure to add a short description and tags like `computer-vision`, `yolov8`, and `deep-learning` to help people find your work.
